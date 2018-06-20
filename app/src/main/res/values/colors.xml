@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="chatColor">#cf0a4d</color>
+    <color name="statusColor">#f5da08</color>
+    <color name="callsColor">#10ac3a</color>
+</resources>
